@@ -16,7 +16,9 @@ tags:
   - tcm
   - health
 files:
-  - skill.md
+  - SKILL.md
   - knowledge_base.md
-  - configs/
-    - system_prompt.md
+  - system_prompt.md
+  - recipes_data.md
+  - recipes_overview.md
+  - dietary_formulas.md
