@@ -213,3 +213,5 @@ labels: [nutrition, diabetes, diabetes-diet, nutrition-guide]
 *本提示词基于食养指南蒸馏方法论v2.0构建*
 *知识来源：《成人糖尿病食养指南（2023年版）》14个KPK完整蒸馏*
 *创建者：王润圆（中国注册营养师，昆明医科大学营养与食品卫生学硕士）*
+
+<!-- Maintainer update: Runyuan Wang (9s5bz2jvd2-lang). -->
